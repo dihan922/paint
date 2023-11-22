@@ -33,8 +33,8 @@ Follow these instructions to get Paint running on your computer.
 - `w <row_start> <col_start> <row_end> <col_end>`: Draw line between 2 points.
     - Lines must be vertical, horizontal, or perfectly diagonal.
 - `r <num_rows> <num_cols>`: Resize canvas to specified size.
-- `a [r | c] pos`: Add a row or column to a specified position.
-- `d [r | c] pos`: Delete a row or column at a specified position.
+- `a <r | c> pos`: Add a row or column to a specified position.
+- `d <r | c> pos`: Delete a row or column at a specified position.
 - `e <row> <col>`: Delete a specific point.
 - `s <file_name>`: Save canvas to a file.
 - `l <file_name>`: Load canvas from a save file.
