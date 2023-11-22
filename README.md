@@ -38,3 +38,7 @@ Follow these instructions to get Paint running on your computer.
 - `e <row> <col>`: Delete a specific point.
 - `s <file_name>`: Save canvas to a file.
 - `l <file_name>`: Load canvas from a save file.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
