@@ -1,0 +1,36 @@
+w
+w 1
+w 1 2
+w 1 2 3
+w 1 2 3 5
+w 0 0 11 11
+
+r
+r 0
+r 0 0
+r 0 1
+r 1 0
+
+a
+a r
+a c
+a n 2
+a r -1
+a c -1
+a r 11
+a c 
+
+d
+d r
+d c
+d n 2
+d r -1
+d c -1
+d r 10
+d c 10
+
+e 0
+e 10 10
+
+s
+l
